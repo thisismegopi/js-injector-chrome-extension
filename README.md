@@ -2,6 +2,14 @@
 
 A premium, modern Chrome extension that allows you to inject custom JavaScript snippets into any website using Regex-based URL matching.
 
+## Screenshots
+
+<p align="center">
+  <img src="images/1.png" width="30%" alt="Popup View" />
+  <img src="images/2.png" width="30%" alt="Dashboard" />
+  <img src="images/3.png" width="30%" alt="Injection in action" />
+</p>
+
 ## Features
 
 - ✨ **Modern UI**: Sleek dark-mode dashboard built with React and Tailwind CSS 4.
